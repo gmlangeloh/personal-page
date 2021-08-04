@@ -1,11 +1,19 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /ensino/
+title: Ensino
+description: Materiais e descrições de disciplinas ministradas (em construção)
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+2021/1
+------
 
-Organize your courses by years, topics, or universities, however you like!
+- Teoria dos Grafos e Análise Combinatória
+- Otimização Combinatória
+
+2019/1
+------
+
+- Introdução à programação
+- Estruturas de dados

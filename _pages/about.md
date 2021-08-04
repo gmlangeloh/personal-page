@@ -1,24 +1,25 @@
 ---
 layout: about
-title: about
+title: Sobre
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: Professor substituto e aluno de doutorado do Instituto de Informática, UFRGS
 
 profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Sala 43424/207</p>
+    <p>Av. Bento Gonçalves, 9500</p>
+    <p>91501-970</p>
+    <p>Porto Alegre, RS</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Sou aluno de doutorado do programa de pós-graduação em computação do Instituto de Informática orientado pelo professor [Marcus Ritt](http://inf.ufrgs.br/~mrpritt).
+Atualmente, estou ministrando as disciplinas de Teoria dos Grafos e Análise Combinatória (INF05512) e Otimização Combinatória (INF05010) como professor substituto do
+Departamento de Informática Teórica do Instituto de Informática da UFRGS. Para mais informações sobre as disciplinas ministradas, ver [ensino](http://inf.ufrgs.br/~gmlangeloh/ensino).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Meu principal interesse de pesquisa é a aplicação de métodos de computação algébrica, como [bases de Gröbner](https://en.wikipedia.org/wiki/Gr%C3%B6bner_basis), a problemas de otimização combinatória. Para minha lista de publicações, ver [publicações](http://inf.ufrgs.br/~gmlangeloh/publicacoes).
